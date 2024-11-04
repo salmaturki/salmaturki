@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**salmaturki/salmaturki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍🎓 About Me
+I am a Final-Year Computer Engineering Student specializing in Data Science. With a strong passion for transforming data into actionable insights, I focus on analytics, visualization, and predictive modeling. I thrive on developing impactful, data-driven solutions that bridge technical skills with analytical thinking.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Langages de programmation
+- C/C++ | Python | R | Java | JavaScript | PHP
+
+### Frameworks et Bibliothèques
+- **Machine Learning**: TensorFlow, PyTorch, Scikit-Learn
+- **Web Development**: Symfony, Flask, Qt, JSON
+
+### Outils Big Data
+- **Technologies**: Hadoop, Spark, Elastic Search
+
+### Bases de données
+- **Technologies**: SQL, PL/SQL, MongoDB
+
+### Systèmes d’exploitation
+- Linux
+
+### Outils d’analyse et de gestion
+- **Logiciels**: Excel, Power BI
+
+### DevOps
+- **Outils**: Git, Docker
+
+### Gestion de projet
+- **Méthodologies**: TDSP, CRISP-DM, Scrum
+
+## 🔗 You can reach me on
+[LinkedIn Profile](https://www.linkedin.com/in/salma-turki-906742275/)
